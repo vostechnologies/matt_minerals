@@ -128,7 +128,9 @@ body {
   background: #0071f8;
   color: #fff;
 }
-
+.videosec {
+  margin-top: 15px !important;
+}
 .section {
   margin-top: 120px;
 }
@@ -416,6 +418,7 @@ Header Style
   color: #1e1e1e;
   font-weight: 700;
   letter-spacing: 2px;
+  width: max-content;
 }
 
 .background-header .main-nav .logo h1 {
@@ -919,7 +922,7 @@ Featured Style
 .featured .info-table {
   border-radius: 10px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
-  padding: 35px 30px;
+  padding: 35px 18px 30px 18px;
 }
 
 .featured .info-table ul li {
@@ -931,8 +934,8 @@ Featured Style
 
 .featured .info-table ul li:last-child {
   border-bottom: none;
-  padding-bottom: 0;
-  margin-bottom: 0;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .featured .info-table ul li img {
