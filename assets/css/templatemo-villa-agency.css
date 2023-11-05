@@ -742,21 +742,27 @@ Banner Style
 .main-banner .item {
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
   padding: 220px 20% 320px 20%;
   margin-top: 0px;
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-01.jpg);
+  background-image: url(../images/car-1.jpg);
+  height: 300px;
+  
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner-02.jpg);
+  background-image: url(../images/car-2.jpg);
+  height: 300px;
+  
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banner-03.jpg);
+  background-image: url(../images/car-3.jpg);
+  height: 300px;
+  
 }
 
 .main-banner .item span.category {
